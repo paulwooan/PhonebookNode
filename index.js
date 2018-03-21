@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
-var http = require('http');
+const http = require('http');
 var phoneBook = [];
 var localStorage = 'entries.json';
 
